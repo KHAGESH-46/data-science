@@ -1,0 +1,6 @@
+age,income,city,purchased
+25.0,50000.0,Delhi,Yes
+30.0,60000.0,Mumbai,No
+35.0,,Chennai,Yes
+,45000.0,Bangalore,No
+40.0,80000.0,Delhi,Yes
